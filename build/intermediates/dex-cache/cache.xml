@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Software\AndroidStudioCache\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="E:\Github\EasyApp\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_803b843c6ae8054381e42a1541f37e3f3c1b62c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Github\EasyApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="E:\Github\EasyApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.0_d9097d15f2a6bd6bfc48caac6ffcdc4ec72ed454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Github\EasyApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="E:\Github\EasyApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.0_1c2f143276ed845dd01c10858ec86e76246b8ff8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Github\EasyApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="E:\Github\EasyApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.0_84cd04f7f0694c6aa1f8594ce3a10422042d5923.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Github\EasyApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="E:\Github\EasyApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.0_59b7565c62a80b12f87db8fea52190a68b28cd08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Github\EasyApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Github\EasyApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.0_3aac4b31b54f56da3ac0f5e03d6e5671496338a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Github\EasyApp\app\build\intermediates\exploded-aar\me.yokeyword\fragmentation\0.10.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd393a9526a2d229a4683ad459394187ad0c9f0c">
+        <dex dex="E:\Github\EasyApp\app\build\intermediates\pre-dexed\debug\me.yokeyword-fragmentation-0.10.2_34d4f66ca01261ea14829a297b95dd206c62e04d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Github\EasyApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="E:\Github\EasyApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.0_cac4aca0b420e8d1a2daa6d589eb99236182a326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Github\EasyApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="E:\Github\EasyApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.0_07d39bd46780a6db31a81bd1fdab2e513138eb4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="E:\Github\EasyApp\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_f1030c98559b93c1004d9034281e600a54bf4851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Github\EasyApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="E:\Github\EasyApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.0_c27eeba847a4f9419458b0940764444624377b12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Github\EasyApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="E:\Github\EasyApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.0_8f4e2ea76b9a42cf82aa84666927a3c8fd8698c7.jar" />
+    </item>
+
+</items>
